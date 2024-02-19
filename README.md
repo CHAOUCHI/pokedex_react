@@ -1,8 +1,8 @@
-# React + Vite
+# TP Pokemon React
+Dans ce TP vous serez accompagné dans la création d'un pokedex.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![alt text](Pokedex.png)
 
-Currently, two official plugins are available:
+Pour la récupération des pokémons nous utiliseront l'api pokebuild qui contient toutes les infos sur les pokémons.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Cette API Rest est accessible via l'adresse : https://pokebuildapi.fr/api/v1
